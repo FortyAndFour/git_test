@@ -1,0 +1,1 @@
+This is my first project. Learning programming on my own.
